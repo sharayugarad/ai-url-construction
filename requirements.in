@@ -1,0 +1,8 @@
+# requirements.in — top-level direct dependencies
+# Compile with: pip-compile requirements.in
+streamlit
+beautifulsoup4
+requests
+pandas
+openpyxl
+openai
